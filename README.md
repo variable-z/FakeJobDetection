@@ -16,7 +16,7 @@ This repository contains the full codebase and resources for a machine learning 
 ## Project Overview
 Online job portals face an increasing problem of fraudulent postings. This project develops an end-to-end pipeline that preprocesses job data, engineers features, and applies a combination of classical and deep learning models to detect fraudulent postings with high reliability.
 
-The full project report is available [here](link-to-pdf-or-repo).
+The full project report is available [here](reports/ML_Status_report.pdf).
 
 ## Folder Structure
 ```
