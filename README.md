@@ -90,7 +90,7 @@ After downloading:
 Further details and analysis can be found in the `ML_REPORT.pdf`.
 
 ## Team Contributions
-- **Sai Pavan P**: Classical machine learning models (Logistic Regression, XGBoost), evaluation metrics, and visualizations.
+- [Sai Pavan P](https://github.com/variable-z): Classical machine learning models (Logistic Regression, XGBoost), evaluation metrics, and visualizations.
 - **Madhu Sree K**: Deep learning models (LSTM, DistilBERT), threshold tuning, and advanced model training.
 - **Venkata Sai Chandra V**: Data preprocessing, feature engineering, and exploratory data analysis (EDA).
 
